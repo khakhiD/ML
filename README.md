@@ -1,5 +1,5 @@
-# ⚙ ML
-### 머신러닝 관련 repository
+# ⚙ ML (Machine-Learning)
+### 머신러닝 관련 repository입니다.
 ---
 * Python 사용, Google Colab Pro, Kaggle
 * Pytorch, YOLOv5, Keras
