@@ -1,5 +1,6 @@
 <div align="center">
   
+![image](https://github.com/khakhiD/ML/assets/74141521/ceba017a-947d-4590-945d-3e109bd5f0fa)
 # ML ⚙ (Machine-Learning)
 <p>머신 러닝 관련 저장소입니다. </p>
 </div>
